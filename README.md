@@ -40,8 +40,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+Testing API needed refreshing so features can display properly, nothing to do with the code
 
 ## Open-source libraries used
 
